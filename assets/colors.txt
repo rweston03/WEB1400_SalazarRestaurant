@@ -1,0 +1,42 @@
+/* Color Theme Swatches in Hex */
+.Cannes-Film-Festival-1-hex { color: #FFFFFF; }
+.Cannes-Film-Festival-2-hex { color: #95D2E4; }
+.Cannes-Film-Festival-3-hex { color: #FF7F00; }
+.Cannes-Film-Festival-4-hex { color: #FE0000; }
+.Cannes-Film-Festival-5-hex { color: #11989B; }
+
+/* Color Theme Swatches in RGBA */
+.Cannes-Film-Festival-1-rgba { color: rgba(255, 255, 255, 1); }
+.Cannes-Film-Festival-2-rgba { color: rgba(149, 209, 228, 1); }
+.Cannes-Film-Festival-3-rgba { color: rgba(255, 126, 0, 1); }
+.Cannes-Film-Festival-4-rgba { color: rgba(253, 0, 0, 1); }
+.Cannes-Film-Festival-5-rgba { color: rgba(17, 151, 154, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Cannes-Film-Festival-1-hsla { color: hsla(0, 0, 100, 1); }
+.Cannes-Film-Festival-2-hsla { color: hsla(193, 59, 73, 1); }
+.Cannes-Film-Festival-3-hsla { color: hsla(29, 100, 50, 1); }
+.Cannes-Film-Festival-4-hsla { color: hsla(0, 100, 49, 1); }
+.Cannes-Film-Festival-5-hsla { color: hsla(181, 80, 33, 1); }
+
+
+/* Color Theme Swatches in Hex */
+.Mexican-pottery-Talavera-style-of-Mexico-1-hex { color: #03588C; }
+.Mexican-pottery-Talavera-style-of-Mexico-2-hex { color: #A0A603; }
+.Mexican-pottery-Talavera-style-of-Mexico-3-hex { color: #F2B705; }
+.Mexican-pottery-Talavera-style-of-Mexico-4-hex { color: #D96704; }
+.Mexican-pottery-Talavera-style-of-Mexico-5-hex { color: #BF0404; }
+
+/* Color Theme Swatches in RGBA */
+.Mexican-pottery-Talavera-style-of-Mexico-1-rgba { color: rgba(2, 87, 140, 1); }
+.Mexican-pottery-Talavera-style-of-Mexico-2-rgba { color: rgba(160, 165, 3, 1); }
+.Mexican-pottery-Talavera-style-of-Mexico-3-rgba { color: rgba(242, 182, 4, 1); }
+.Mexican-pottery-Talavera-style-of-Mexico-4-rgba { color: rgba(216, 103, 4, 1); }
+.Mexican-pottery-Talavera-style-of-Mexico-5-rgba { color: rgba(191, 3, 3, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Mexican-pottery-Talavera-style-of-Mexico-1-hsla { color: hsla(202, 96, 28, 1); }
+.Mexican-pottery-Talavera-style-of-Mexico-2-hsla { color: hsla(61, 96, 33, 1); }
+.Mexican-pottery-Talavera-style-of-Mexico-3-hsla { color: hsla(45, 96, 48, 1); }
+.Mexican-pottery-Talavera-style-of-Mexico-4-hsla { color: hsla(28, 96, 43, 1); }
+.Mexican-pottery-Talavera-style-of-Mexico-5-hsla { color: hsla(0, 96, 38, 1); }
